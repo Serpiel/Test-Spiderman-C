@@ -1,3 +1,0 @@
-﻿  test.c
-C:\Users\hmaru\source\repos\Cours\Cours\test.c(64,5): warning C4013: 'strcpy' non défini(e) ; extern retournant int pris par défaut
-  Cours.vcxproj -> C:\Users\hmaru\source\repos\Cours\x64\Debug\Cours.exe
